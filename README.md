@@ -1,7 +1,8 @@
-# My custom St build
+# My custom build of [St](https://st.suckless.org/)  
 
 **!INFO!** ***This build default installation location is "~/.local". Change PREFIX to "/usr/local" in config.mk if systemwide installation needed.***  
-**Fonts Requirements:** JetBrains Mono Nerd Font, Noto Color Emoji
+**Fonts Requirements:** JetBrains Mono Nerd Font, Noto Color Emoji  
+**Lib Requirements:** Need to install 'libxft-bgra' for working emojis
 
 ## Patches added  
 
